@@ -61,6 +61,8 @@ Computer Power-Auto-Shutdown ( 電腦自動排程軟體 Windows )
 
 ![alt tag](http://i.imgur.com/qbuxARC.jpg)
 
+### Environment
+Visual Studio 2012
 
 ### 執行檔
 * [載點](https://app.box.com/s/ye68658tua4ylswhbd7x) (已打包為windows exe檔案)
